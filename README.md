@@ -4,7 +4,7 @@
 ##
 ## This is Çiçek Akkaya's Final Exam Project of Deep Learning Course in Data Science and Artificial Intelligence Master's Degree Program of European Higher Education Institute, Malta.
 ## Please, browse Cicek_Akkaya_DL_Final_v1.pdf file for the report of the project.
-## Please, browse the DL-Final.ipynb file for the python codes used.
+## Please, browse the DL_Final_Cicek_Akkaya.ipynb file for the python codes used.
 ##
 ## This project ensures to recognize correctly the 10 classes of digits which are from 0 to 9, in the MNIST Handwritten Digit dataset which includes in tens of thousands of handwritten images. This is an Image Classification project which is a kind of Computer Vision variety. In the project, used CNN architecture of Deep Learning.
 ## Training set and testing set were separete. They used separately for training and evaluating the model. 
